@@ -2,7 +2,8 @@
 
 abi and bytecode
 
-[chainlist](chainlist.org) 这个网站可以加很多链也可以查找很多链
+- [chainlist](chainlist.org) 这个网站可以加很多链也可以查找很多链
+- [eips](https://eips.ethereum.org/all) eips所有的提案
 
 ## account
 
@@ -35,3 +36,5 @@ EIP1559之前手续费完全给矿工， EIP1559 base fee 被燃烧，小费(tip
 | Ether                 | ether  | 1 ether = 10¹⁸ wei  | 1 ether     |
 | 更大单位（KEther、MEther 等） | –      | 10²¹ wei 以上         | 多用于极少场景     |
 
+
+## multicall
