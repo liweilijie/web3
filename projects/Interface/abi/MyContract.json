@@ -1,0 +1,41 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "contract ICounter",
+        "name": "icounter",
+        "type": "address"
+      }
+    ],
+    "name": "increment",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "_counter",
+        "type": "address"
+      }
+    ],
+    "name": "incrementA",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "contract Counter",
+        "name": "counter",
+        "type": "address"
+      }
+    ],
+    "name": "incrementC",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

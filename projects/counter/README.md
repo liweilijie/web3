@@ -9,12 +9,12 @@ mkdir counter
 cd counter
 npm init -y
 npm install --save-dev hardhat
+npm install dotenv --save
+npm install --save-dev hardhat-abi-exporter
+npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox @openzeppelin/contracts
 npx hardhat
 code .
-npm hardhat compile
-npm install dotenv --save\n
-npm install --save-dev hardhat-abi-exporter\n
-npx hardhat export-abi
 npx hardhat compile
+npx hardhat export-abi
 npx hardhat run scripts/deploy.js --network bsctestnet
 ```
