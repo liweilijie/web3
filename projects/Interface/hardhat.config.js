@@ -26,6 +26,11 @@ module.exports = {
             chainId: 97,
             accounts: { mnemonic: MNEMONIC },
         },
+        polygon: {
+            url: "https://polygon-rpc.com",
+            chainId: 137,
+            accounts: { mnemonic: MNEMONIC },
+        },
     },
 
     etherscan: {
