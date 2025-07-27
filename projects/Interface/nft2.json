@@ -1,0 +1,33 @@
+{
+    "name": "Liwei Robot #2",
+    "description": "这是李伟机器人系列中的第一款 NFT，专为收藏者设计，具备独特的 AI 特征和稀有性。",
+    "image": "ipfs://bafybeia2hfcffxybrsbxck57slqhcr3itg6vyv7edd5ue6k5j3vprsgmee",
+    "external_url": "https://emacsvi.com/polygon/nft/2",
+    "attributes": [
+        {
+            "trait_type": "Generation",
+            "value": "Gen 2"
+        },
+        {
+            "trait_type": "Power Level",
+            "value": 9002
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "AI Intelligence",
+            "value": 90
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Minted Date",
+            "value": 1724294400
+        }
+    ],
+    "background_color": "000000",
+    "animation_url": "ipfs://bafybeia2hfcffxybrsbxck57slqhcr3itg6vyv7edd5ue6k5j3vprsgmee",
+    "youtube_url": "https://www.youtube.com/watch?v=xxxx"
+}
